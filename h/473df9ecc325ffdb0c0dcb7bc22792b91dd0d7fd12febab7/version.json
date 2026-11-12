@@ -1,0 +1,6 @@
+{
+  "versionCode": 135,
+  "versionName": "2.11",
+  "apkUrl": "https://raw.githubusercontent.com/HackHarbor-max/harvester-updates/dist/h/473df9ecc325ffdb0c0dcb7bc22792b91dd0d7fd12febab7/harvester-latest-135.apk",
+  "notes": "Udhar: date filter hata, hafte-wise (Week 1..N + Poora season) hisaab; Report: week-wise total + week table; v2.11"
+}
